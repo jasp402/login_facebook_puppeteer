@@ -1,5 +1,5 @@
-# ¿Cómo 🤖 Automatizar 🔐 LOGIN de Facebook? 
-### ¡En ⏳ 5 Minutos!🤯 / PuppeteerJS
+# ¿Cómo 🤖 Automatizar 🔐 LOGIN de Facebook?  | ![YouTube Video Views](https://img.shields.io/youtube/views/dgwKqGbvI00?style=social) ![YouTube Video Votes](https://img.shields.io/youtube/likes/dgwKqGbvI00?style=social&withDislikes)
+### ¡En ⏳ 5 Minutos!🤯 / PuppeteerJS 
 
 Tutorial en Youtbe https://youtu.be/dgwKqGbvI00
 
